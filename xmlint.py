@@ -1,11 +1,16 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 """
 XMLファイルを読み込むことができるかの確認処理を実施します。
 
-【インストール方法】
+【Install（インストール）】
 
 py -m pip install lxml
+
+【Usage（使用方法）】
+
+py xmlint.py ファイルパス、または、ディレクトリパス
 """
 
 import sys
